@@ -1,0 +1,2 @@
+# discordbot-template
+DiscordBotのテンプレート
